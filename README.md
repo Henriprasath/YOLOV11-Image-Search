@@ -111,9 +111,10 @@ VS Code Terminal showing YOLO inference logs
 
 Similarity search results
 
-<img width="1880" height="290" alt="p1" src="https://github.com/user-attachments/assets/cd3c5002-d6a6-4396-9fb9-4ebdfa5489f5" />
+![p11](https://github.com/user-attachments/assets/1877f0c6-ba09-442d-97da-e1e3c0d59b2a)
 
-<img width="1878" height="611" alt="p2" src="https://github.com/user-attachments/assets/3ac2d1b6-4398-4054-a8c2-13fc3e1432ea" />
+![p12](https://github.com/user-attachments/assets/fc1d409d-3177-4f96-833b-5d5244a7ffb4)
+
 
 <img width="1912" height="836" alt="p3" src="https://github.com/user-attachments/assets/46389547-d999-47e1-959b-1a07572935b5" />
 
